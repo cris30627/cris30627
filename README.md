@@ -1,16 +1,12 @@
-### Hi there 👋
+### Hi, I'm Cristian 🖥 🦹‍♀️ 
+![perfil](./1631118505645.jpeg)
 
-<!--
-**cris30627/cris30627** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+i'm an engineer developer who is passionate for the progrraming in JavaSript, also i'm teacher of aplications web in the ITI 🏫 
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### Programming Languages
+- 📱 JavaScript, Java
+- 🧐 HTML, CSS
+- 💆 GITHUB, GIT
+- 🙂 React, Angular
+- 🔖 DB Mysql, Postgres, Mongo, SQL server
+- 📦 Docker, Linux
